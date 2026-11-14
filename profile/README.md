@@ -2,10 +2,10 @@
   <a href="https://outset-vtt.gg/"><img src="outset-banner.jpg" alt="Outset: Your next adventure awaits. A full-featured 3D web VTT." width="720"></a>
 </p>
 
-<h3 align="center">Manifest your world. Experience it together.</h3>
+<h3 align="center">Explore your vision. Bring friends.</h3>
 
 <p align="center">
-  Outset is a browser-based 3D virtual tabletop. Create characters and bring your maps to a shared 3D tabletop. Run D&amp;D encounters with your group in the browser.
+  Outset is a browser-based 3D virtual tabletop. Create characters and bring your maps to a shared 3D tabletop. Run D&amp;D with your group in the browser.
 </p>
 
 <p align="center">
